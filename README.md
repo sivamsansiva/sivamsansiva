@@ -45,9 +45,9 @@ My focus is on building reliable, scalable, and user-friendly applications while
 
 ## 📊 GitHub Statistics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivamsansiva&show_icons=true&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivamsansiva&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivamsansiva&layout=compact&theme=default)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivamsansiva&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivamsansiva&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivamsansiva&layout=compact&theme=tokyonight)  
 
 ---
 
