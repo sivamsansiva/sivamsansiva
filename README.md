@@ -37,16 +37,14 @@ My focus is on building reliable, scalable, and user-friendly applications while
 
 - **Recipe Hub App** *(in progress)*  
   An Android app for creating, searching, and managing personal recipes.  
-
-- **AI Projects** *(ongoing)*  
-  Experimenting with machine learning models and Salesforce AI features.  
+  
 
 ---
 
 ## 📊 GitHub Statistics  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivamsansiva&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivamsansiva&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sivamsansiva&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivamsansiva&layout=compact&theme=tokyonight)  
 
 ---
