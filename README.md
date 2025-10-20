@@ -10,7 +10,7 @@
 
 ### 🎓 About Me
 I'm an enthusiastic undergraduate exploring the intersection of technology, problem-solving, and innovation.  
-My current interests revolve around **full-stack web development**, **AI-driven systems**, and **data analytics** — aiming to turn complex problems into impactful digital solutions.
+My current interests revolve around **full-stack web development**, **AI-driven systems**, and **data analytics**  aiming to turn complex problems into impactful digital solutions.
 
 ---
 
