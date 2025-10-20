@@ -89,8 +89,4 @@ When I’m not coding, I enjoy:
   </a>
 </p>
 
----
 
-<p align="center">
-  <i>"Striving to bridge the gap between technology and real-world solutions."</i>
-</p>
