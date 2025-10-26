@@ -61,14 +61,14 @@ My current interests revolve around **full-stack web development**, **AI-driven 
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - Deepening skills in **Full-Stack Development** (Java & MERN)
 - Strengthening knowledge in **Data Science & AI**
 - Preparing for **Salesforce Specialist Certification (2025)**
 
 ---
 
-### 💬 Outside of Code
+### Outside of Code
 When I’m not coding, I enjoy:
 - 📚 Reading tech blogs & exploring AI innovations  
 - 🎯 Planning side projects to improve real-world efficiency  
