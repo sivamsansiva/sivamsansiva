@@ -14,13 +14,13 @@ My current interests revolve around **full-stack web development**, **AI-driven 
 
 ---
 
-### 🧠 Certifications
+### Certifications
 - ✅ **Salesforce AI Associate** – Completed  
 - 🎯 Preparing for **Salesforce Specialist Certification** *(Target: December 2025)*  
 
 ---
 
-### ⚙️ Tech Stack
+###  Tech Stack
 
 **Languages & Frameworks**  
 <p align="left">
@@ -39,7 +39,7 @@ My current interests revolve around **full-stack web development**, **AI-driven 
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 - 🗓️ [**Event Management System**](https://github.com/sivamsansiva/Event-pro)  
   A full-stack event booking and management platform built using **Java Servlets, JSP, and MySQL** following MVC architecture.
@@ -49,7 +49,7 @@ My current interests revolve around **full-stack web development**, **AI-driven 
 
 ---
 
-### 📈 GitHub Statistics  
+###  GitHub Statistics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sivamsansiva&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivamsansiva&theme=tokyonight" alt="GitHub Streak" height="165"/>
@@ -76,7 +76,7 @@ When I’m not coding, I enjoy:
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/sivasubramaniam-sivamsan-3b5315261/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
