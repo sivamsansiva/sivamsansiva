@@ -15,8 +15,7 @@ My current interests revolve around **full-stack web development**, **AI-driven 
 ---
 
 ### Certifications
-- ✅ **Salesforce AI Associate** – Completed  
-- 🎯 Preparing for **Salesforce Specialist Certification** *(Target: December 2025)*  
+- ✅ **Salesforce AI Associate** – Completed   
 
 ---
 
